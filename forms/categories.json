@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Политика",
+    "slug": "politic"
+  },
+  "2": {
+    "id": 2,
+    "name": "Спорт",
+    "slug": "sport"
+  },
+  "3": {
+    "id": 3,
+    "name": "программирование",
+    "slug": "programming"
+  },
+  "4": {
+    "id": 4,
+    "name": "языки",
+    "slug": "foreignLanguages"
+  }
+}
