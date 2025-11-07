@@ -1,0 +1,8 @@
+<h2>Посты</h2>
+
+<?php foreach ($posts as $post): ?>
+    <div>
+        <a href="?page=post&id=<?= htmlspecialchars($post['id']) ?>"><b><?= htmlspecialchars($post['title']) ?></b></a>
+    </div>
+<?php endforeach; ?> <br><br>
+<a href="?page=add-post"><button type="button">добавить пост</button></a>
